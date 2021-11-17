@@ -1,5 +1,6 @@
 # TurkishPhoneNumberRegex
 
+Check regex.txt file.
 
 Regex for detect turkish phone numbers:
 
