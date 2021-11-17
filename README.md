@@ -1,7 +1,5 @@
 # TurkishPhoneNumberRegex
 
-(([+]?\d{2})|\d?)[ \t-]*[(]?[ \t-]*[0-9]{3,4}[ \t-]*[)]?[ \t-]*[0-9]{3}[ \t-]*[0-9]{2}[ \t-]*[0-9]{2}|([ \t-]*[0-9]{3}[ \t-]*[0-9]{2}[ \t-]*[0-9]{2})
-
 
 Regex for detect turkish phone numbers:
 
